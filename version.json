@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "",
+  "auth": "x",
   "message": "v1.202.0",
   "color": "orange"
 }
